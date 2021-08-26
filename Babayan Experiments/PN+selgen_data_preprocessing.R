@@ -5,7 +5,7 @@ Predicting Reservoir Hosts and Arthropod Vectors from Evolutionary Signatures in
 """
 
 rm(list=ls())
-setwd("COVID-Reservoir-Prediciton") # Set local working directory where files are located
+#setwd("COVID-Reservoir-Prediciton") # Set local working directory where files are located
 #setwd("~/GoogleDrive/Boulot/With Alain Zemkoho_machine learning/prediction of reservoirs/reservoir-prediction-scripts-data/merged_new.csv")
 
 library(plyr)
